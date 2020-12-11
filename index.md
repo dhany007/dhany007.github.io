@@ -4,7 +4,7 @@
 
 ### Profil
 
-<img align="left" src="pp.jpg" width="140" height="140" style="margin-right:20px"> Seorang Backend Developer yang saat ini fokus dengan Javascript, Node.Js, Express.Js, dan React.Js serta manajemen version control dengan Git. Tertarik untuk mempelajari teknologi baru dibidang pemrograman. Mampu memimpin dan memotivasi diri sendiri dengan efektif didalam tim sehingga berada di visi yang sama.
+<img align="left" src="pp.jpg" width="130" height="140" style="margin-right:20px"> Seorang Backend Developer yang saat ini fokus dengan Javascript, Node.Js, Express.Js, dan React.Js serta manajemen version control dengan Git. Tertarik untuk mempelajari teknologi baru dibidang pemrograman. Mampu memimpin dan memotivasi diri sendiri dengan efektif didalam tim sehingga berada di visi yang sama.
 
 ### Kontak
 
