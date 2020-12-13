@@ -5,5 +5,5 @@
 
 - [Git dan Github](git-github.html)
 
-- [Konflik pada Github](konflik-github.html)
+- [Conflict pada Github](konflik-github.html)
   
